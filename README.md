@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👍! My name is Romullo Lopes and I'm a backend developer Junior.</h2>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Romullo!;" />
+</h1>
 
 ###
 
@@ -30,7 +32,7 @@
   <a href="https://www.instagram.com/romullo_lopes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/romullo-lopes" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -43,3 +45,7 @@
 <img src="https://raw.githubusercontent.com/RomulloLopes/RomulloLopes/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
